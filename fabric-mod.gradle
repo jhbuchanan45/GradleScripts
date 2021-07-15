@@ -8,7 +8,7 @@ buildscript {
 		}
 		maven {
 			name = 'TerraformersMC'
-			url = 'https://maven.terraformersmc.com/'
+			url = 'https://raw.githubusercontent.com/TerraformersMC/Archive/main/releases/'
 		}
 		gradlePluginPortal()
 		mavenLocal()
